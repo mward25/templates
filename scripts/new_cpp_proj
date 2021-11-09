@@ -1,0 +1,1 @@
+cp -r ~/templates/cpp/generic_cpp_template/* .
